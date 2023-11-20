@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7828cc3f540d640dc85b7e49684cdf7d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mushroom: {fileID: 21300000, guid: 7f0ee942f91214d54a199e82e44a49cf, type: 3}
+  - hardMushroom: {fileID: 21300000, guid: b3e5d9588c94741feae84f85fec92223, type: 3}
+  - mushroomHit: {fileID: 21300000, guid: 87e1fb8317160462ca628cddf294f87c, type: 3}
+  - bomb: {fileID: 21300000, guid: 6ba805e02d7bb41a4a874f3aa3fdd543, type: 3}
+  - gameManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
