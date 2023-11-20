@@ -28,3 +28,31 @@ https://gamedevbeginner.com/the-right-way-to-lerp-in-unity-with-examples/​
 https://www.mygreatlearning.com/blog/sort-function-in-cpp/​
 
 https://stackoverflow.com/questions/1380463/sorting-a-vector-of-custom-objects​
+
+https://www.youtube.com/watch?v=TAGZxRMloyU
+
+https://www.youtube.com/watch?v=oqnr7THMbcU
+
+https://gamedevbeginner.com/the-right-way-to-lerp-in-unity-with-examples/
+
+https://www.youtube.com/watch?v=xbWr8f_LHGY
+
+ https://www.youtube.com/watch?v=4HpC--2iowE
+
+ https://www.youtube.com/watch?v=HVB6UVcb3f8&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL&index=5
+
+ https://www.youtube.com/watch?v=K1xZ-rycYY8&t=36s
+
+ https://docs.unity3d.com/ScriptReference/Vector2.html
+
+ https://docs.unity3d.com/ScriptReference/Input.GetKeyDown.html
+
+ https://www.youtube.com/watch?v=GG0NYcOQd0k
+
+ https://www.youtube.com/watch?v=xbWr8f_LHGY
+
+ https://www.youtube.com/watch?v=5GWRPwuWtsQ
+
+ https://www.youtube.com/watch?v=HVB6UVcb3f8&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL&index=5
+
+ https://www.youtube.com/watch?v=FXqwunFQuao
